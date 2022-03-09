@@ -1,5 +1,7 @@
 # vue-formularios
 
+* link:: https://www.udemy.com/course/vue-js-guia-completo/learn/lecture/12836944#overview
+* ultimo: https://www.udemy.com/course/vue-js-guia-completo/learn/lecture/12836954#overview
 ## Project setup
 ```
 npm install
